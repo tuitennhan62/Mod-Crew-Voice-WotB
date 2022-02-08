@@ -5,7 +5,10 @@ Mã nguồn của dự án WWISE để tạo ra phần tiếng kíp lái cho gam
 Dự án này sẽ giúp bạn tự chỉnh sửa tiếng kíp lái cho game World of Tanks Blitz bằng cách sử dụng Audiokinetic WWISE
 
 Dự án WWISE này hoạt động ổn định với phiên bản: 2019.2.9.7459 
-
+# Video hướng dẫn
+K-2 WotB: https://youtu.be/hoVZxmDLQ5M
+ 
+Lakia_Max https://youtu.be/4JT-XhLhToo
 # Hướng Dẫn
 
 Bước 1: Tạo tài khoản Audiokinetic
