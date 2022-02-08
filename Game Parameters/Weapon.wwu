@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EA10221C-F624-4901-8E25-9AA84BE2DD64}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="Weapon" ID="{EA10221C-F624-4901-8E25-9AA84BE2DD64}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="RTPC_int_wpn_600m_npc" ID="{E86FE82B-C382-4D9C-AF6B-08C228E8767B}">
+					<PropertyList>
+						<Property Name="BindToBuiltInParam" Type="int16" Value="1"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="10"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

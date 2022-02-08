@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A1D80F73-EF77-4F43-9A0E-A039F770E02B}" SchemaVersion="97" RootDocumentID="{5AEBD82D-3106-4E0F-BE5A-632C96AD8EB0}">
+	<Events>
+		<WorkUnit Name="NY_2021" ID="{A1D80F73-EF77-4F43-9A0E-A039F770E02B}" OwnerID="{5AEBD82D-3106-4E0F-BE5A-632C96AD8EB0}" PersistMode="Nested">
+			<ChildrenList>
+				<WorkUnit Name="ev_ny_hangar_2021" ID="{0FF72303-91F4-442C-99BE-6F4A5E9201BB}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

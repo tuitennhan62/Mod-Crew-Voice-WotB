@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0A1C587B-B963-4429-AE35-D4B93425F6EE}" SchemaVersion="97" RootDocumentID="{5AEBD82D-3106-4E0F-BE5A-632C96AD8EB0}">
+	<Events>
+		<WorkUnit Name="Twister_2020" ID="{0A1C587B-B963-4429-AE35-D4B93425F6EE}" OwnerID="{5AEBD82D-3106-4E0F-BE5A-632C96AD8EB0}" PersistMode="Nested">
+			<ChildrenList>
+				<WorkUnit Name="ev_twister_2020_hangar" ID="{4AB2A5B9-A946-4A22-BEB1-9D3853B3F46E}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4AB2A5B9-A946-4A22-BEB1-9D3853B3F46E}" SchemaVersion="97" RootDocumentID="{5AEBD82D-3106-4E0F-BE5A-632C96AD8EB0}">
+	<Events>
+		<WorkUnit Name="ev_twister_2020_hangar" ID="{4AB2A5B9-A946-4A22-BEB1-9D3853B3F46E}" OwnerID="{0A1C587B-B963-4429-AE35-D4B93425F6EE}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="hangar_ambient_hangar_blitz_v1_simple" ID="{6041595D-E849-491F-9091-32A2227342BD}">
+					<ChildrenList>
+						<Action Name="" ID="{E276674D-739F-44D0-8273-14CE9E9CE818}" ShortID="740903218">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_Twister_2020_Box" ID="{A299310E-78A1-4EF7-BEB6-C32A8D312927}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{15CB6DA3-326C-436C-9F35-476800F4FD34}" ShortID="481099467">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_Twister_2020_Dron" ID="{6B39A939-B621-4C40-8925-C0DF2AD0DA56}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{7D2E49EA-72B4-4DDE-B12D-92B9B7232CC6}" ShortID="831149594">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_Twister_2020_Hammer_01" ID="{A379E4F4-27CF-4261-A1AE-1D8C155FECC4}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{4A401CA6-183E-40A0-9E83-9DFD1888ABEA}" ShortID="920593515">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_Twister_2020_Hammer_02" ID="{230C9A2A-3143-4C3D-98E2-EA5097CCED10}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{EB2C364F-B74A-4A69-8CD5-87F6E9BB74B7}" ShortID="656214015">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_Twister_2020_BGM" ID="{922E7E76-0BFC-40E2-AEF7-6C31BCDB7D45}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

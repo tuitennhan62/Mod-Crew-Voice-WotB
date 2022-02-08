@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DA4E5651-0DA2-49F7-A585-A40790BF310D}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{DA4E5651-0DA2-49F7-A585-A40790BF310D}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="voiceover_crew" ID="{1E9D8265-44E3-4C49-8EFA-208E70C6BD2B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="ingame_voice_notifications_VO_track_damaged" ID="{17F8108E-9A7B-400A-90E0-AC3DD560B87F}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_vehicle_destroyed" ID="{813E56BE-E55A-4076-85D5-F820E67641D2}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_ally_killed_by_player" ID="{F19A3762-B250-410B-996A-0F51F3935CEB}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_gun_functional" ID="{E927EABA-CF41-4125-8ADC-EFD5C4DBCDE8}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_armor_not_pierced_by_player" ID="{D0EFDFAC-0325-421D-ADEF-B0AFC467DA03}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_start_battle" ID="{74835201-A055-42C9-84F2-BE3BC40BC442}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_radioman_killed" ID="{CDDA22F8-FF76-4356-9D8C-51D7C26CBEC4}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_gun_destroyed" ID="{0B3509B1-0849-439D-A9B8-53089016D11C}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_engine_damaged" ID="{1F214ACA-5865-43AF-9207-2E681F186D11}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_turret_rotator_destroyed" ID="{FFBA6B9B-691C-4469-8B01-17A7625112D1}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_track_functional_can_move" ID="{3F6FA150-FECA-4571-8D48-CCAB3B093899}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_surveying_devices_functional" ID="{9FA9E4BA-8791-459C-95D5-435BB02BB723}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_track_functional" ID="{2F0C3612-522D-4623-9758-7755F26A9050}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_gunner_killed" ID="{ABE95961-A422-4733-B557-DAAD70E892FF}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_surveying_devices_damaged" ID="{BAE6296E-1520-4797-954B-DC7715739A54}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_armor_pierced_by_player" ID="{57F850DE-B7AF-479F-8CEE-2AAD115B4D26}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_surveying_devices_destroyed" ID="{A884B5D1-9F13-4903-9182-4E20DF2BC42B}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_radio_damaged" ID="{E03C1BEF-B5CD-49B7-AFAC-BAA197C501F0}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_fuel_tank_damaged" ID="{309793BF-D24E-4A19-B97E-C9179D638D66}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_track_destroyed" ID="{13E6FB43-8AF4-4AE0-B045-428A44AE3F9F}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_driver_killed" ID="{770E69ED-40E9-4C15-B8FA-B07BCA04374C}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_enemy_fire_started_by_player" ID="{EB1E3343-6834-4C21-AE3A-782643C86D61}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_armor_ricochet_by_player" ID="{E0C6AF51-C245-4C2C-AC03-F2C38112B5E8}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_fire_stopped" ID="{CF377717-4688-4C95-A856-1052099EC8CB}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_enemy_killed_by_player" ID="{8A9A455E-6C35-4D84-B432-6F81D0EC4A11}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_commander_killed" ID="{050247A2-9F0A-4DBF-BC25-7868E954CC97}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_engine_destroyed" ID="{762FB5B4-9C65-4DF3-98E2-A19580776A0C}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_engine_functional" ID="{06305B43-93DC-4E44-BFF3-7C3D115BB900}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_gun_damaged" ID="{8E823529-2125-4EE2-BE18-439C1BFFBBDE}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_fire_started" ID="{064758A9-9241-4EF3-A0E7-9DDB8092DB54}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_turret_rotator_functional" ID="{C890C8A4-78B0-4F23-94BD-5D3056244300}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_loader_killed" ID="{51C8C931-6973-4F2A-B86B-E9790E5DDE81}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_turret_rotator_damaged" ID="{8AD81799-3930-4F77-834E-225EE15A5B29}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_ammo_bay_damaged" ID="{4E1385AF-909D-4F8E-8594-461CD867F797}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ingame_voice_notifications_VO_armor_pierced_crit_by_player" ID="{62A088AB-8994-4FBC-96AF-3E94C6F911F2}" WorkUnitID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="ui_chat_quick_commands" ID="{38E2EBC0-0A9C-4BD2-899E-C02BEAC7EBB1}">
+					<ObjectInclusionList>
+						<ObjectRef Name="GUI_notifications_FX_quick_commands_attack_target" ID="{722B69ED-B0C8-40D1-BB44-D90C5C46D7E6}" WorkUnitID="{6827BAC1-235D-4078-B3A3-5D060BBD75B8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_chat_chat_to_squad" ID="{5CA0D433-C068-415B-8934-5ACE0FF78522}" WorkUnitID="{33E5456B-63EA-4854-B0AF-E28C2CE956A3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_chat_chat_to_all" ID="{F59F5248-E5AC-4226-BAB1-539F6C3AA1B3}" WorkUnitID="{33E5456B-63EA-4854-B0AF-E28C2CE956A3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_quick_commands_positive" ID="{983C9C4E-5129-430E-A99B-D72CDBA44AEF}" WorkUnitID="{6827BAC1-235D-4078-B3A3-5D060BBD75B8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_quick_commands_negative" ID="{1E1DF0C6-7A88-4369-887A-B58E3BE394BA}" WorkUnitID="{6827BAC1-235D-4078-B3A3-5D060BBD75B8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_quick_commands_help_me" ID="{04B7539B-BAFB-4517-BF7E-E6C51738C692}" WorkUnitID="{6827BAC1-235D-4078-B3A3-5D060BBD75B8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_quick_commands_capture_base" ID="{2A40327F-6EF6-4529-A3D9-1993CD596E85}" WorkUnitID="{6827BAC1-235D-4078-B3A3-5D060BBD75B8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_chat_chat_from_squad" ID="{D4A325AB-FCF0-46FB-A710-EF79EF80B1F7}" WorkUnitID="{33E5456B-63EA-4854-B0AF-E28C2CE956A3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_chat_chat_from_all" ID="{A92E5DA7-D118-479B-BC0E-BBECAA86561B}" WorkUnitID="{33E5456B-63EA-4854-B0AF-E28C2CE956A3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_quick_commands_defend_base" ID="{D2716A11-8D70-4918-85F9-08C0E7F91D7F}" WorkUnitID="{6827BAC1-235D-4078-B3A3-5D060BBD75B8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_chat_chat_to_allies" ID="{19A52085-76F5-49B3-8879-76381C915CD7}" WorkUnitID="{33E5456B-63EA-4854-B0AF-E28C2CE956A3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_quick_commands_attack" ID="{0878AAA5-0A99-4EBD-B05A-4F47402D05F6}" WorkUnitID="{6827BAC1-235D-4078-B3A3-5D060BBD75B8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_chat_chat_from_allies" ID="{BF147C0B-44E1-4F5F-AE60-EB3BF418CBF3}" WorkUnitID="{33E5456B-63EA-4854-B0AF-E28C2CE956A3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GUI_notifications_FX_quick_commands_reloading" ID="{69E33275-4CF9-4F68-A6DB-80400FF23F90}" WorkUnitID="{6827BAC1-235D-4078-B3A3-5D060BBD75B8}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="reload" ID="{9C64AED7-E4FE-4F15-B3F2-FD00CB359A9E}">
+					<ObjectInclusionList>
+						<ObjectRef Name="GUI_notifications_FX_gun_reloaded" ID="{A5289ACB-3CFB-4E59-B3AF-AB1578C9FC75}" WorkUnitID="{90AC83D5-EE12-429D-A81D-D0B7095AFE95}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

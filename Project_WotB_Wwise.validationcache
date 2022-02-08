@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="97">
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\WoTB_Sound_Mod.wproj" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1612575826" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Virtual Acoustics\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Triggers\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Switches\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\States\UI.wwu" DateLow="1614404865" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\States\Settings.wwu" DateLow="1614244547" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\States\Music.wwu" DateLow="1614392966" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\States\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\SoundBanks\Default Work Unit.wwu" DateLow="1621039052" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Queries\Factory Queries.wwu" DateLow="1615010515" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Queries\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Presets\Factory Spatial Audio.wwu" DateLow="1612575812" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Presets\Factory Reflect.wwu" DateLow="1612575826" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Presets\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Modulators\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Mixing Sessions\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1621324074" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Game Parameters\Weapon.wwu" DateLow="1614997645" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Game Parameters\UI.wwu" DateLow="1621311719" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Game Parameters\Settings.wwu" DateLow="1614360732" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Game Parameters\Hits.wwu" DateLow="1615022617" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Game Parameters\Hanger.wwu" DateLow="1614169946" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Game Parameters\General.wwu" DateLow="1620050227" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1612575830" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Game Parameters\Factory Motion.wwu" DateLow="1612575824" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Game Parameters\Default Work Unit.wwu" DateLow="1613810594" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\Weapon.wwu" DateLow="1614672739" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\VoiceOver.wwu" DateLow="1613748844" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\UI_Battle.wwu" DateLow="1621312163" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\UI.wwu" DateLow="1613787544" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\Twister_2020.wwu" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\Surface.wwu" DateLow="1615001752" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\small.wwu" DateLow="1615641297" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\Reload.wwu" DateLow="1615456447" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\Quick_Commands.wwu" DateLow="1615638277" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\PC_NPC.wwu" DateLow="1615639043" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\NY_2021.wwu" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\NPC_PC.wwu" DateLow="1614938052" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\medium.wwu" DateLow="1615641297" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\May_9_2021.wwu" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\main.wwu" DateLow="1615641297" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\LoadBGM\Music_Resultscreen.wwu" DateLow="1615456447" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\LoadBGM\Music_Maps.wwu" DateLow="1614393525" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\LoadBGM\Music_Battle.wwu" DateLow="1615456447" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\LoadBGM\Music.wwu" DateLow="1613814444" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\large.wwu" DateLow="1615641297" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\huge.wwu" DateLow="1615641297" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\Hits.wwu" DateLow="1614939243" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\Hanger_BGM\Music.wwu" DateLow="1615456447" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\Hanger_BGM\Hangar_1_0.wwu" DateLow="1620050820" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\Hanger_BGM\Hangar.wwu" DateLow="1613812522" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\Events.wwu" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\ev_twister_2020_hangar.wwu" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\ev_ny_hangar_2021.wwu" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\Default Work Unit.wwu" DateLow="1613737738" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\Crew.wwu" DateLow="1615638631" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Events\Chat.wwu" DateLow="1615456447" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Effects\Factory Reflect.wwu" DateLow="1612575826" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Effects\Factory McDSP Effects.wwu" DateLow="1612575834" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Effects\Factory iZotope Filters.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Effects\Factory iZotope Dynamics.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Effects\Factory iZotope Delay.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Effects\Factory iZotope Box Modeler.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Effects\Factory Effects.wwu" DateLow="1614261666" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Effects\Factory Auro Headphone.wwu" DateLow="1612575832" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Effects\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1612575812" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Conversion Settings\Default Work Unit.wwu" DateLow="1613737682" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Control Surface Sessions\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Audio Devices\Default Work Unit.wwu" DateLow="1613744138" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Attenuations\Default Work Unit.wwu" DateLow="1615028155" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1612575812" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1612575830" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1614938051" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Lakia_Max\Desktop\WoTB_Sound_Mod_English\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1621324074" DateHigh="0"/>
+</ValidationCache>

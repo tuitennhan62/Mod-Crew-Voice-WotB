@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2A4A4EE4-802C-46E0-A934-CA9A7EC7F1B5}" SchemaVersion="97" RootDocumentID="{5AEBD82D-3106-4E0F-BE5A-632C96AD8EB0}">
+	<Events>
+		<WorkUnit Name="May_9_2021" ID="{2A4A4EE4-802C-46E0-A934-CA9A7EC7F1B5}" OwnerID="{5AEBD82D-3106-4E0F-BE5A-632C96AD8EB0}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="play_may_9_2021_hangar_car" ID="{B7CA0AD9-42C4-444E-97C6-3096CD3AE2EC}">
+					<ChildrenList>
+						<Action Name="" ID="{825BE7E6-245F-422A-A5AE-291C1C31F5B6}" ShortID="427755060">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_may_9_2021_Car_moving" ID="{FBA2C1D6-9286-45A0-9B6F-3DA1F03630E0}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_may_9_2021_hangar_coniferous_rustle" ID="{78D5D414-4FD0-4F9D-8FCA-9AC723A002B4}">
+					<ChildrenList>
+						<Action Name="" ID="{261F8A9E-0299-4D61-A71B-A1CAA0D44753}" ShortID="35018979">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_may_9_2021_Hangar_coniferous_rustle" ID="{71A3C766-64E3-4A69-8761-8A5C4345B0A6}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_may_9_2021_hangar_crickets" ID="{2BFBB191-B9E2-45E6-8E17-0B1F47B28FDD}">
+					<ChildrenList>
+						<Action Name="" ID="{16D88E6C-7966-410A-92AF-A5D2F2AD0516}" ShortID="304798864">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_may_9_2021_Crickets" ID="{9C9194C8-C16A-46A5-9CFC-5826E0F4D8BB}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_may_9_2021_hangar_crow" ID="{E5562459-CBD0-40AA-A038-045F2C46DAE5}">
+					<ChildrenList>
+						<Action Name="" ID="{0F6D51A1-89F3-4E53-B50E-139D204A5641}" ShortID="87830855">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_may_9_2021_Crow" ID="{C43C6D07-F1D3-4313-94B9-64E66B32F8EE}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_may_9_2021_hangar_fire_burn" ID="{830291CD-BE57-4CF3-9D66-42B1FBD174FE}">
+					<ChildrenList>
+						<Action Name="" ID="{9CD8087E-8DA1-41AA-AD0F-BFC3DFFF86AD}" ShortID="13542115">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_may_9_2021_Burn_small" ID="{305E0498-A7B0-41C5-B9B6-394B81E02EB1}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_may_9_2021_hangar_frogs" ID="{1C20EB2F-BC0C-4A1D-99A3-06C8623219C1}">
+					<ChildrenList>
+						<Action Name="" ID="{AA701DA1-7AC7-4AC6-B65A-DDC2DF1F0F94}" ShortID="994792749">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_may_9_2021_Frogs" ID="{87AFA6FC-9758-428E-B6EC-E90C3FA471E5}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_may_9_2021_hangar_plane" ID="{B112B0DF-FFE1-4378-BD78-2C0C3EC53576}">
+					<ChildrenList>
+						<Action Name="" ID="{A84818F4-CAB0-4F45-B873-ED4AD182AE46}" ShortID="119692356">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_may_9_2021_Hangar_plane" ID="{ECE69647-29CB-42C1-99AE-61D7763B6844}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_may_9_2021_hangar_tank" ID="{4220F0DE-17D7-4048-B069-AE23210AD959}">
+					<ChildrenList>
+						<Action Name="" ID="{702CEBDB-E777-414A-973A-2BB899465C42}" ShortID="1050074188">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_may_9_2021_Hangar_tank_01" ID="{FB1735BD-DD85-4BDC-9DDC-107260576625}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{D0B514F2-F61A-4FD5-AAC9-0317178D2CDA}" ShortID="110373974">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_may_9_2021_Hangar_tank_02" ID="{8748C056-0CDA-4D72-8CF0-EC834E4F98F9}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_may_9_2021_hangar_tree_rustle" ID="{E004C842-758A-4F99-BFF9-B62BB5EB5471}">
+					<ChildrenList>
+						<Action Name="" ID="{B8C1C7C0-02E8-43D6-9C84-6AC49E1C42CC}" ShortID="226874334">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_may_9_2021_Tree_rustle" ID="{DA4FC8B3-2C1F-4030-BB9C-1296C758B39E}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{998DAFDC-0DAC-4B47-A5D5-62F0814DD885}" ShortID="893967337">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_may_9_2021_BGM" ID="{D8131E16-E576-4FE9-A52D-F95CC1C3EA77}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_may_9_2021_hangar_woodpecker" ID="{3E3C5D4A-D861-4FB5-A4C8-AA1F181BDE1B}">
+					<ChildrenList>
+						<Action Name="" ID="{5490F536-C997-4E05-B5A4-E1C2C38242C4}" ShortID="298243383">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Event_may_9_2021_Woodpecker" ID="{8A043813-FF29-4D0A-8483-29BE1EFF8EE9}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

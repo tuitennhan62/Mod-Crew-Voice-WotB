@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9C4671D0-9FD3-4B82-A3AA-6FA6271396EE}" SchemaVersion="97" RootDocumentID="{5D196377-55B1-4B35-B61E-70B8120B1A9C}">
+	<Events>
+		<WorkUnit Name="large" ID="{9C4671D0-9FD3-4B82-A3AA-6FA6271396EE}" OwnerID="{383C17DB-877A-4145-9FDB-8C115E5B8817}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="hits_surface_hits_large_hit_ground_fougasse_large" ID="{6491C5A3-57BF-4AF4-97B4-F71CB42820D0}">
+					<ChildrenList>
+						<Action Name="" ID="{5BFA2C2A-937C-48ED-A850-600C696565AA}" ShortID="819828460">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_Soil_HE" ID="{E2BFEA12-91E8-406B-B124-9BBC5FEE5715}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{AD2E6D7F-8EA3-4D8F-A073-FB390F37046D}" ShortID="247349047">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Soil_SE" ID="{34DBD8C3-108B-41C2-9751-A57A4E45E955}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hits_surface_hits_large_hit_snow_fougasse_large" ID="{AE3FBD76-F7C6-4C85-BE5C-8C8B1CFD19EE}">
+					<ChildrenList>
+						<Action Name="" ID="{754CF931-45A9-4FF6-AC18-4AB740F9ECD0}" ShortID="166143937">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_Snow_HE" ID="{09DFD8CF-1584-4333-888D-DE6850335B1F}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{555D39A7-C1BD-48AF-8258-B387E5908539}" ShortID="352544819">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Snow_SE" ID="{96374EEC-71BD-42BD-B0DB-AB0C3A5C2599}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hits_surface_hits_large_hit_ground_large" ID="{95227E70-3709-4D64-B5B1-137097D82297}">
+					<ChildrenList>
+						<Action Name="" ID="{C36D4F8D-645E-406F-85D5-27115E2A930F}" ShortID="980686876">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_Soil" ID="{B27F1277-147D-4E51-8E28-B74E000F0182}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{A5362852-21D8-467A-9F18-4B1C7684D943}" ShortID="212433785">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Soil_SE" ID="{34DBD8C3-108B-41C2-9751-A57A4E45E955}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hits_surface_hits_large_hit_metal_fougasse_large" ID="{DCE5B0A5-D999-4AF3-B2C5-2F0957459F83}">
+					<ChildrenList>
+						<Action Name="" ID="{34B33A6B-36FB-4E3C-95E9-6C32FD183177}" ShortID="689725778">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_Iron_HE" ID="{E51CECDE-9617-4294-BFDE-868FF4FEB2DF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{ED75F212-A48A-4C25-B204-2B2B742B32B4}" ShortID="608975587">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Iron_SE" ID="{54479CD1-0E2A-4F94-809E-D1A7A70FF684}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hits_surface_hits_large_hit_snow_large" ID="{2A847163-4E31-4E32-A027-F0B421D81CAB}">
+					<ChildrenList>
+						<Action Name="" ID="{59F30C95-991D-48F0-87A7-3833B16BA9D1}" ShortID="58387676">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_Snow" ID="{011778E6-A5C5-453E-B4A3-8FC4C0672631}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{C0B05513-36AA-4A26-B09B-345ABF35A9C8}" ShortID="770617174">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Snow_SE" ID="{96374EEC-71BD-42BD-B0DB-AB0C3A5C2599}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hits_surface_hits_large_hit_metal_large" ID="{E793765D-0833-4E3A-91B5-6895D4AC9B17}">
+					<ChildrenList>
+						<Action Name="" ID="{B6E9F769-B732-4B32-8B23-7ED1B017138E}" ShortID="664546746">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_Iron" ID="{C1BDF80E-64B1-4820-B8F3-12CEA5291DF9}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{016B6D6E-34EB-4B04-A5D5-21256BE59A4E}" ShortID="448102345">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Iron_SE" ID="{54479CD1-0E2A-4F94-809E-D1A7A70FF684}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hits_surface_hits_large_hit_stone_large" ID="{EDCE8479-4059-416E-9644-17490F17DAE4}">
+					<ChildrenList>
+						<Action Name="" ID="{B38CA092-26AD-4502-944E-651CFC34204B}" ShortID="335341036">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_石" ID="{83D05888-709B-432D-B8A7-6A6A9F3B5B0C}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{5B5F3CC3-7318-4C18-8B14-9C00F3138AC5}" ShortID="753195867">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Stone_SE" ID="{AAAFDE7B-87F5-45CB-9BB3-E8FAE2D01998}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hits_surface_hits_large_hit_sand_large" ID="{46C76E0A-1BF1-498E-BB24-329A887305D5}">
+					<ChildrenList>
+						<Action Name="" ID="{193672C7-21E2-408D-BBA8-93B92053A4DE}" ShortID="283396938">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_Sand" ID="{A1A2591C-8996-450F-BD58-210EF9871B9E}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{721DACBE-8147-41E4-86E8-1821ACDAE9BF}" ShortID="913269349">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Sand_SE" ID="{8395F792-6601-4A2B-B131-103105847D02}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hits_surface_hits_large_hit_stone_fougasse_large" ID="{48FBD72C-C63B-4CAD-977B-D03D4895DFF5}">
+					<ChildrenList>
+						<Action Name="" ID="{1A7D35F2-D508-4EED-80AD-B5C1644316AE}" ShortID="585353603">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_Stone_HE" ID="{A20A29C5-4987-4202-AF02-71CB9110A6A7}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{CC12B5F7-608D-4B89-890F-56563D7990FB}" ShortID="315200040">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Stone_SE" ID="{AAAFDE7B-87F5-45CB-9BB3-E8FAE2D01998}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hits_surface_hits_large_hit_sand_fougasse_large" ID="{54535837-EEEB-463A-AB10-8CDC4248068C}">
+					<ChildrenList>
+						<Action Name="" ID="{33AA7ABD-9A52-4CF8-9A2B-7283A24F614B}" ShortID="146713205">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_Sand_HE" ID="{DD72ADAB-0DB5-421A-AC59-F556D43B524E}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{84B64692-52E3-4289-A8D5-6B744C48C56A}" ShortID="633043123">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Sand_SE" ID="{8395F792-6601-4A2B-B131-103105847D02}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hits_surface_hits_large_hit_water_fougasse_large" ID="{1CA4947D-E601-47F1-9B3A-FCD5C7667035}">
+					<ChildrenList>
+						<Action Name="" ID="{DA5C8C09-8A43-43DE-B3F8-D80018A1EC79}" ShortID="47714214">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_Water_HE" ID="{1C47DBBE-A3A3-4EF9-BC48-0933B1E6E70E}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{C31244A0-F7A3-4345-BD00-653060649B72}" ShortID="198210823">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Stone_SE" ID="{AAAFDE7B-87F5-45CB-9BB3-E8FAE2D01998}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hits_surface_hits_large_hit_water_large" ID="{A6BCD2C6-A9F8-4DCE-834D-2AA4C0F07A40}">
+					<ChildrenList>
+						<Action Name="" ID="{37D8A041-AEE9-44B7-9D63-219E4956CF1B}" ShortID="518085150">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_石" ID="{83D05888-709B-432D-B8A7-6A6A9F3B5B0C}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{989C7BB5-1213-43CC-A981-305BBEBF36AF}" ShortID="779761966">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Stone_SE" ID="{AAAFDE7B-87F5-45CB-9BB3-E8FAE2D01998}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hits_surface_hits_large_hit_wood_fougasse_large" ID="{6B401865-F84C-463E-B065-7CAD34D869B9}">
+					<ChildrenList>
+						<Action Name="" ID="{76A8E14E-CF04-40E6-BB7E-D4C857823C0C}" ShortID="929616313">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_Wood_HE" ID="{B0B4ED86-9E7B-4DBB-B72F-9CEE8D98C5A9}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{12182635-F699-44B5-BAFB-56C4374451F9}" ShortID="983600175">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Wood_SE" ID="{51DCDFF6-A292-4F6F-BD30-A0029A74C14A}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hits_surface_hits_large_hit_wood_large" ID="{402F52E0-7A5F-48D8-B50D-D22A08E11932}">
+					<ChildrenList>
+						<Action Name="" ID="{74281B0B-C9E0-406F-91C6-7F60E99C6E40}" ShortID="120553360">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="115_152mm_Landing_Wood" ID="{ED35C1C2-DB7D-42E4-8BEC-334C1FDD8025}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{8C8CD2C9-4FFC-4F47-92B0-2629FFB9F564}" ShortID="449763389">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hits_Wood_SE" ID="{51DCDFF6-A292-4F6F-BD30-A0029A74C14A}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5D196377-55B1-4B35-B61E-70B8120B1A9C}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Hits" ID="{5D196377-55B1-4B35-B61E-70B8120B1A9C}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="PC_NPC" ID="{2C4388B7-8108-4DCA-B87A-E7C29A461981}" PersistMode="Reference"/>
+				<WorkUnit Name="NPC_PC" ID="{E6EBB40E-6E12-4CBD-AC59-86F8CC280B4C}" PersistMode="Reference"/>
+				<WorkUnit Name="Surface" ID="{383C17DB-877A-4145-9FDB-8C115E5B8817}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

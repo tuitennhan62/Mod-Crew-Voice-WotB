@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5FF85B8A-C087-4DD0-BE3F-EA5C62426A94}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="General" ID="{5FF85B8A-C087-4DD0-BE3F-EA5C62426A94}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="RTPC_int_azimuth" ID="{6DDEFF61-2128-4F1A-9ACB-9B758993A556}">
+					<PropertyList>
+						<Property Name="BindToBuiltInParam" Type="int16" Value="2"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="180"/>
+						<Property Name="Min" Type="Real64" Value="-180"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="RTPC_int_distance_600m" ID="{0111717C-FAEB-41CD-BAEB-3227F5D36D30}">
+					<PropertyList>
+						<Property Name="BindToBuiltInParam" Type="int16" Value="1"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="600"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

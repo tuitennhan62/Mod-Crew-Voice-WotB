@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9A68D0FE-8A63-40AE-8E47-4B4DD8B9F17D}" SchemaVersion="97">
+	<States>
+		<WorkUnit Name="UI" ID="{9A68D0FE-8A63-40AE-8E47-4B4DD8B9F17D}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}">
+					<ChildrenList>
+						<State Name="None" ID="{AFC5EA38-2F8E-420D-943B-137299438319}"/>
+						<State Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
+						<State Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
+							<EndState Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
+							<Time>1</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
+							<EndState Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
+							<Time>1</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

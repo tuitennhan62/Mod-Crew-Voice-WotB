@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1D110D10-3D4B-410B-ACE0-4B56B209EC21}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="Settings" ID="{1D110D10-3D4B-410B-ACE0-4B56B209EC21}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="RTPC_ext_settings_volume_master_music" ID="{C41E977A-74E1-454E-9C86-0294FFF7E74E}">
+					<PropertyList>
+						<Property Name="FilterTimeDown" Type="Real64" Value="2"/>
+						<Property Name="FilterTimeUp" Type="Real64" Value="2"/>
+						<Property Name="InitialValue" Type="Real64" Value="1"/>
+						<Property Name="Max" Type="Real64" Value="1"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="RTPC_ext_settings_volume_master_fx" ID="{79821014-3614-4622-855F-E1F6CC497B38}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="1"/>
+						<Property Name="Max" Type="Real64" Value="1"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

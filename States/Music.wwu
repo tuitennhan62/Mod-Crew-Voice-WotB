@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6B0A253D-300A-4CC6-B0CC-9CF7383673B5}" SchemaVersion="97">
+	<States>
+		<WorkUnit Name="Music" ID="{6B0A253D-300A-4CC6-B0CC-9CF7383673B5}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="STATE_music_volume_fadeout" ID="{4A58AC8F-398B-4CDC-B8DB-E938ABC0F0E7}">
+					<ChildrenList>
+						<State Name="None" ID="{B36599EB-675A-4AEE-8E7D-81521747CF18}"/>
+						<State Name="STATE_music_volume_on" ID="{19A0C703-7564-415F-8002-9BF8A25434DC}"/>
+						<State Name="STATE_music_volume_off" ID="{01DEF091-7B77-463E-B17E-CA67FD791050}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="STATE_music_volume_off" ID="{01DEF091-7B77-463E-B17E-CA67FD791050}"/>
+							<EndState Name="STATE_music_volume_on" ID="{19A0C703-7564-415F-8002-9BF8A25434DC}"/>
+							<Time>1</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="STATE_music_volume_on" ID="{19A0C703-7564-415F-8002-9BF8A25434DC}"/>
+							<EndState Name="STATE_music_volume_off" ID="{01DEF091-7B77-463E-B17E-CA67FD791050}"/>
+							<Time>1</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

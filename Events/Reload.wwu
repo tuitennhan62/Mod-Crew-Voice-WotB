@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{90AC83D5-EE12-429D-A81D-D0B7095AFE95}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Reload" ID="{90AC83D5-EE12-429D-A81D-D0B7095AFE95}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="GUI_notifications_FX_gun_reloaded" ID="{A5289ACB-3CFB-4E59-B3AF-AB1578C9FC75}">
+					<ChildrenList>
+						<Action Name="" ID="{6AA28D74-C149-4225-8FA1-E80974482093}" ShortID="477495597">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Reload_SE" ID="{67CEF022-E5A4-4CF9-895D-D8F5A9712F73}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{D2C456AA-53DB-4E5E-8479-B8C010228D27}" ShortID="969058400">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Reload_Voice" ID="{588AE461-8BE9-48A5-A347-286351748C4A}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

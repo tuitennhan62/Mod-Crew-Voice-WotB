@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E34249C7-32E9-4573-AAB0-8087C3638399}" SchemaVersion="97" RootDocumentID="{6BCA4A67-6EDE-4785-A916-54056BFBB12E}">
+	<Events>
+		<WorkUnit Name="Music_Resultscreen" ID="{E34249C7-32E9-4573-AAB0-8087C3638399}" OwnerID="{6BCA4A67-6EDE-4785-A916-54056BFBB12E}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Music_aftershot_defeat" ID="{7ACD490A-AD1E-4E85-950F-B19ACE86A5FC}">
+					<ChildrenList>
+						<Action Name="" ID="{BA929736-7D32-4ED8-BEAA-1468679E0257}" ShortID="280693660">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Defeat_BGM" ID="{E1DEC97F-8235-4DEF-8446-0980144C75FA}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_aftershot_draw" ID="{7C026EE9-33CF-41CE-96A9-FE6EBA0FC859}">
+					<ChildrenList>
+						<Action Name="" ID="{4A23361D-B836-4040-A784-CF2BD64DCBB1}" ShortID="963729911">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Draw_BGM" ID="{471E0FCC-44BB-4C0A-B593-1576371D865B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_aftershot_victory" ID="{6B86E157-D554-4D86-981B-EAEA60E258F9}">
+					<ChildrenList>
+						<Action Name="" ID="{D22D184D-5BC8-4D16-A062-45F6D445EBDD}" ShortID="523259098">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Victory_BGM" ID="{AC24B681-6CA6-4187-88F4-D6C14C849493}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D32D43BF-D4B9-4421-8AFF-A3E6436E9666}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="UI" ID="{D32D43BF-D4B9-4421-8AFF-A3E6436E9666}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Chat" ID="{33E5456B-63EA-4854-B0AF-E28C2CE956A3}" PersistMode="Reference"/>
+				<WorkUnit Name="Quick_Commands" ID="{6827BAC1-235D-4078-B3A3-5D060BBD75B8}" PersistMode="Reference"/>
+				<WorkUnit Name="UI_Battle" ID="{83217B51-31E8-45EC-8B80-E155BE5DB451}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

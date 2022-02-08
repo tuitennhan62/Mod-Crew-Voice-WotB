@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="VoiceOver" ID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Crew" ID="{CB61CEEE-CE37-4B62-8ED5-182F948B1871}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

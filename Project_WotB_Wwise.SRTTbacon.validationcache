@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="97">
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\WoTB_Sound_Mod.wproj" DateLow="1613815613" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\WoTB_Sound_Mod.SRTTbacon.wsettings" DateLow="1613871403" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1612575825" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Virtual Acoustics\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Triggers\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Switches\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\States\Music.wwu" DateLow="1613813193" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\States\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\SoundBanks\Default Work Unit.wwu" DateLow="1613814743" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Queries\Factory Queries.wwu" DateLow="1612575811" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Queries\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Presets\Factory Spatial Audio.wwu" DateLow="1612575811" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Presets\Factory Reflect.wwu" DateLow="1612575825" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Presets\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Modulators\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Mixing Sessions\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1613737104" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Game Parameters\UI.wwu" DateLow="1613812231" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Game Parameters\Settings.wwu" DateLow="1613810562" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Game Parameters\Hanger.wwu" DateLow="1613810593" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1612575829" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Game Parameters\Factory Motion.wwu" DateLow="1612575822" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Game Parameters\Default Work Unit.wwu" DateLow="1613810593" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\VoiceOver.wwu" DateLow="1613748843" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\UI_Battle.wwu" DateLow="1613809301" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\UI.wwu" DateLow="1613787542" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\Reload.wwu" DateLow="1613809301" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\Quick_Commands.wwu" DateLow="1613809301" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\LoadBGM\Music_Resultscreen.wwu" DateLow="1613836684" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\LoadBGM\Music_Maps.wwu" DateLow="1613813236" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\LoadBGM\Music.wwu" DateLow="1613814443" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\Hanger_BGM\Music.wwu" DateLow="1613810474" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\Hanger_BGM\Hangar_1_0.wwu" DateLow="1613810344" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\Hanger_BGM\Hangar.wwu" DateLow="1613812521" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\Default Work Unit.wwu" DateLow="1613737737" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\Crew.wwu" DateLow="1613809301" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Events\Chat.wwu" DateLow="1613809076" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Effects\Factory Reflect.wwu" DateLow="1612575825" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Effects\Factory McDSP Effects.wwu" DateLow="1612575833" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1612575834" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1612575834" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1612575834" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Effects\Factory iZotope Filters.wwu" DateLow="1612575834" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Effects\Factory iZotope Dynamics.wwu" DateLow="1612575834" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Effects\Factory iZotope Delay.wwu" DateLow="1612575834" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Effects\Factory iZotope Box Modeler.wwu" DateLow="1612575834" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Effects\Factory Effects.wwu" DateLow="1612575811" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Effects\Factory Auro Headphone.wwu" DateLow="1612575830" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Effects\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1612575811" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Conversion Settings\Default Work Unit.wwu" DateLow="1613737680" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Control Surface Sessions\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Audio Devices\Default Work Unit.wwu" DateLow="1613744136" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Attenuations\Default Work Unit.wwu" DateLow="1613736493" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1612575811" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1612575829" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1613737104" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Program Files\Wwise 2017.2.5.6619\WoTB_Sound_Mod\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1613871666" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\WoTB_Sound_Mod.wproj" DateLow="1613815614" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\WoTB_Sound_Mod.SRTTbacon.wsettings" DateLow="1615132482" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1612575826" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Virtual Acoustics\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Triggers\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Switches\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\States\UI.wwu" DateLow="1614404865" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\States\Settings.wwu" DateLow="1614244547" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\States\Music.wwu" DateLow="1614392966" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\States\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\SoundBanks\Default Work Unit.wwu" DateLow="1615009932" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Queries\Factory Queries.wwu" DateLow="1615010515" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Queries\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Presets\Factory Spatial Audio.wwu" DateLow="1612575812" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Presets\Factory Reflect.wwu" DateLow="1612575826" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Presets\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Modulators\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Mixing Sessions\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1614938051" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Game Parameters\Weapon.wwu" DateLow="1614997645" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Game Parameters\UI.wwu" DateLow="1614178469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Game Parameters\Settings.wwu" DateLow="1614360732" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Game Parameters\Hits.wwu" DateLow="1615022617" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Game Parameters\Hanger.wwu" DateLow="1614169946" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Game Parameters\General.wwu" DateLow="1614996913" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1612575830" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Game Parameters\Factory Motion.wwu" DateLow="1612575824" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Game Parameters\Default Work Unit.wwu" DateLow="1613810594" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\Wind.wwu" DateLow="1614427662" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\Weapon.wwu" DateLow="1614672739" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\VoiceOver.wwu" DateLow="1613748844" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\UI_Battle.wwu" DateLow="1614677821" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\UI.wwu" DateLow="1613787544" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\Surface.wwu" DateLow="1615001752" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\small.wwu" DateLow="1615011243" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\Reload.wwu" DateLow="1614179180" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\Quick_Commands.wwu" DateLow="1614179180" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\PC_NPC.wwu" DateLow="1614938052" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\NPC_PC.wwu" DateLow="1614938052" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\medium.wwu" DateLow="1615010736" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\main.wwu" DateLow="1615010736" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\LoadBGM\Music_Resultscreen.wwu" DateLow="1614393525" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\LoadBGM\Music_Maps.wwu" DateLow="1614393525" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\LoadBGM\Music_Battle.wwu" DateLow="1614677676" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\LoadBGM\Music.wwu" DateLow="1613814444" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\large.wwu" DateLow="1615010624" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\huge.wwu" DateLow="1615010624" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\Hits.wwu" DateLow="1614939243" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\Hanger_BGM\Music.wwu" DateLow="1614051886" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\Hanger_BGM\Hangar_1_0.wwu" DateLow="1613810346" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\Hanger_BGM\Hangar.wwu" DateLow="1613812522" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\Default Work Unit.wwu" DateLow="1613737738" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\Crew.wwu" DateLow="1614393215" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\Chat.wwu" DateLow="1613809078" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Events\Ambient.wwu" DateLow="1614427618" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Effects\Factory Reflect.wwu" DateLow="1612575826" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Effects\Factory McDSP Effects.wwu" DateLow="1612575834" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Effects\Factory iZotope Filters.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Effects\Factory iZotope Dynamics.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Effects\Factory iZotope Delay.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Effects\Factory iZotope Box Modeler.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Effects\Factory Effects.wwu" DateLow="1614261666" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Effects\Factory Auro Headphone.wwu" DateLow="1612575832" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Effects\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1612575812" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Conversion Settings\Default Work Unit.wwu" DateLow="1613737682" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Control Surface Sessions\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Audio Devices\Default Work Unit.wwu" DateLow="1613744138" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Attenuations\Default Work Unit.wwu" DateLow="1615028155" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1612575812" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1612575830" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1614938051" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1615132479" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Wwise\WoTB_Sound_Mod\Actor-Mixer Hierarchy\Backup.wwu" DateLow="1614161538" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\WoTB_Sound_Mod.wproj" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\WoTB_Sound_Mod.SRTTbacon.wsettings" DateLow="1621322449" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1612575826" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Virtual Acoustics\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Triggers\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Switches\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\States\UI.wwu" DateLow="1614404865" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\States\Settings.wwu" DateLow="1614244547" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\States\Music.wwu" DateLow="1614392966" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\States\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\SoundBanks\Default Work Unit.wwu" DateLow="1621039052" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Queries\Factory Queries.wwu" DateLow="1615010515" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Queries\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Presets\Factory Spatial Audio.wwu" DateLow="1612575812" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Presets\Factory Reflect.wwu" DateLow="1612575826" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Presets\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Modulators\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Mixing Sessions\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1621321847" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Game Parameters\Weapon.wwu" DateLow="1614997645" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Game Parameters\UI.wwu" DateLow="1621311719" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Game Parameters\Settings.wwu" DateLow="1614360732" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Game Parameters\Hits.wwu" DateLow="1615022617" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Game Parameters\Hanger.wwu" DateLow="1614169946" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Game Parameters\General.wwu" DateLow="1620050227" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1612575830" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Game Parameters\Factory Motion.wwu" DateLow="1612575824" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Game Parameters\Default Work Unit.wwu" DateLow="1613810594" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\Weapon.wwu" DateLow="1614672739" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\VoiceOver.wwu" DateLow="1613748844" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\UI_Battle.wwu" DateLow="1621312163" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\UI.wwu" DateLow="1613787544" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\Twister_2020.wwu" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\Surface.wwu" DateLow="1615001752" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\small.wwu" DateLow="1615641297" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\Reload.wwu" DateLow="1615456447" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\Quick_Commands.wwu" DateLow="1615638277" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\PC_NPC.wwu" DateLow="1615639043" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\NY_2021.wwu" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\NPC_PC.wwu" DateLow="1614938052" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\medium.wwu" DateLow="1615641297" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\May_9_2021.wwu" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\main.wwu" DateLow="1615641297" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\LoadBGM\Music_Resultscreen.wwu" DateLow="1615456447" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\LoadBGM\Music_Maps.wwu" DateLow="1614393525" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\LoadBGM\Music_Battle.wwu" DateLow="1615456447" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\LoadBGM\Music.wwu" DateLow="1613814444" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\large.wwu" DateLow="1615641297" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\huge.wwu" DateLow="1615641297" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\Hits.wwu" DateLow="1614939243" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\Hanger_BGM\Music.wwu" DateLow="1615456447" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\Hanger_BGM\Hangar_1_0.wwu" DateLow="1620050820" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\Hanger_BGM\Hangar.wwu" DateLow="1613812522" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\Events.wwu" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\ev_twister_2020_hangar.wwu" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\ev_ny_hangar_2021.wwu" DateLow="1620050647" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\Default Work Unit.wwu" DateLow="1613737738" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\Crew.wwu" DateLow="1615638631" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Events\Chat.wwu" DateLow="1615456447" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Effects\Factory Reflect.wwu" DateLow="1612575826" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Effects\Factory McDSP Effects.wwu" DateLow="1612575834" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Effects\Factory iZotope Filters.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Effects\Factory iZotope Dynamics.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Effects\Factory iZotope Delay.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Effects\Factory iZotope Box Modeler.wwu" DateLow="1612575836" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Effects\Factory Effects.wwu" DateLow="1614261666" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Effects\Factory Auro Headphone.wwu" DateLow="1612575832" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Effects\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1612575812" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Conversion Settings\Default Work Unit.wwu" DateLow="1613737682" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Control Surface Sessions\Default Work Unit.wwu" DateLow="1613736494" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Audio Devices\Default Work Unit.wwu" DateLow="1613744138" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Attenuations\Default Work Unit.wwu" DateLow="1615028155" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1612575812" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1612575830" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1614938051" DateHigh="0"/>
+	<ValidationCacheItem File="D:\hoge\Back\WoTB_Sound_Mod_English\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1621322075" DateHigh="0"/>
+</ValidationCache>

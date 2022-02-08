@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A616EC5A-9F05-4E82-96D0-335AB28E12D7}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{A616EC5A-9F05-4E82-96D0-335AB28E12D7}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="UI" ID="{63C7F98B-1029-444D-B272-32B011B53962}" PersistMode="Reference"/>
+				<WorkUnit Name="Hanger" ID="{04AF5A2E-C6D6-468D-BA0C-CB3D701B8946}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

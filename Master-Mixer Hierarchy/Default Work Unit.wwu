@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}" SchemaVersion="97">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="System" ID="{4CD97F24-1FA9-4334-82C6-E371A7A51E93}" WorkUnitID="{4E4E5CEF-BF9B-414A-B547-90244203047B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="weapon" ID="{3C0CA62C-81EB-471C-9D2B-E88ED50299D6}"/>
+						<Bus Name="hits" ID="{64FFE453-94F4-49A1-8E26-BDA72273A2D2}"/>
+						<Bus Name="ui_battle" ID="{ACA8C3AA-C0EA-485F-B5DD-0398947B54F9}"/>
+						<Bus Name="reload" ID="{05FB6B9B-08DF-4720-988D-14BED0F13DF1}"/>
+						<Bus Name="ui_chat_quick_commands" ID="{8642276D-1459-42FF-A05E-6E41598BFA38}"/>
+						<Bus Name="music_result_screen" ID="{9A678B20-3F3F-4FCD-92A4-41E83E5D55CC}"/>
+						<Bus Name="music_battle" ID="{E61E0BFF-678B-4E4D-B716-9A4F5C4473ED}"/>
+						<Bus Name="VOICEOVER" ID="{0BFB483C-B6F6-4976-9D90-3895CB7FE5ED}"/>
+					</ChildrenList>
+				</Bus>
+				<Bus Name="Motion Factory Bus" ID="{2AF9B9C6-6EF1-46E9-B5F2-E30C9E602C74}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="Default_Motion_Device" ID="{49D1BE5F-2306-4FB9-84AA-0D4D55C64CC1}" WorkUnitID="{4E4E5CEF-BF9B-414A-B547-90244203047B}"/>
+						</Reference>
+					</ReferenceList>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6A93E6CE-D126-47C1-B1DF-1B221855DE40}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Music_Battle" ID="{6A93E6CE-D126-47C1-B1DF-1B221855DE40}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="GUI_notifications_FX_victory_NPC" ID="{DADF86D1-7761-422F-8320-D829F3261066}">
+					<ChildrenList>
+						<Action Name="" ID="{C26A8DB2-A446-431B-8191-F58B601F8974}" ShortID="868507801">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="3"/>
+							</PropertyList>
+							<ReferenceList/>
+						</Action>
+						<Action Name="" ID="{6E6A245D-BD01-40FB-8237-C4022EB102D3}" ShortID="280893571">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Enemy_BGM" ID="{55856DA2-45E6-4263-B1D9-5195472B8EBC}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{5F3C0DEA-9066-4D13-8D2A-A8B33A9E7A95}" ShortID="172104274">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="danger" ID="{9785E22C-5797-4D4E-93A6-33D3596D8456}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="GUI_notifications_FX_victory_PC" ID="{23D5FDFF-020F-4865-89D4-6576F00DDE58}">
+					<ChildrenList>
+						<Action Name="" ID="{EE141311-4366-455E-B82C-FEA11C1F1B82}" ShortID="825835323">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="3"/>
+							</PropertyList>
+							<ReferenceList/>
+						</Action>
+						<Action Name="" ID="{226C9349-63C0-4D21-9757-7B52266D713A}" ShortID="920056342">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Allies_BGM" ID="{0854E334-BB7B-44E6-9D77-E0F5DF094F8E}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{1140292A-B3AA-405E-96A5-D03FD4CCCD13}" ShortID="729052467">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="danger" ID="{9785E22C-5797-4D4E-93A6-33D3596D8456}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

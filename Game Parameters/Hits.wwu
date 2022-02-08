@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D8F11C04-C0CD-488D-AB66-BE263E2B503F}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="Hits" ID="{D8F11C04-C0CD-488D-AB66-BE263E2B503F}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="RTPC_int_hit_pc_npc_500m" ID="{76031E0C-D53D-4240-A755-F9237A5F862F}">
+					<PropertyList>
+						<Property Name="BindToBuiltInParam" Type="int16" Value="1"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="180"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

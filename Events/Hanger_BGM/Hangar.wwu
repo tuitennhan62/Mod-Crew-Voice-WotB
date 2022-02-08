@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2B7B748E-D61B-4E4F-87CC-7EF2232D63AB}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Hangar" ID="{2B7B748E-D61B-4E4F-87CC-7EF2232D63AB}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Hangar_1_0" ID="{4F64DD4E-BEAB-4F20-866D-D2F8D50CA135}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{33E5456B-63EA-4854-B0AF-E28C2CE956A3}" SchemaVersion="97" RootDocumentID="{D32D43BF-D4B9-4421-8AFF-A3E6436E9666}">
+	<Events>
+		<WorkUnit Name="Chat" ID="{33E5456B-63EA-4854-B0AF-E28C2CE956A3}" OwnerID="{D32D43BF-D4B9-4421-8AFF-A3E6436E9666}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="GUI_notifications_FX_chat_chat_from_all" ID="{A92E5DA7-D118-479B-BC0E-BBECAA86561B}">
+					<ChildrenList>
+						<Action Name="" ID="{E3037934-390D-4A82-AA07-B7C639108A9F}" ShortID="342367743">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="All_Receive" ID="{F29DCB6E-8ED7-48AE-81CA-504E8D4324F4}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="GUI_notifications_FX_chat_chat_from_allies" ID="{BF147C0B-44E1-4F5F-AE60-EB3BF418CBF3}">
+					<ChildrenList>
+						<Action Name="" ID="{1D72E9AC-ED64-4419-B285-A402B6253A3F}" ShortID="747978568">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Team_Receive" ID="{91A481A7-05F6-45D5-B1B5-1B08279BFE29}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="GUI_notifications_FX_chat_chat_from_squad" ID="{D4A325AB-FCF0-46FB-A710-EF79EF80B1F7}">
+					<ChildrenList>
+						<Action Name="" ID="{C1E86CB7-88BD-40A4-952C-6CA6B35CDB2D}" ShortID="194790935">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Platoon_Receive" ID="{AE3B0253-ABB7-4CC3-BDFC-2AA076BC33B3}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="GUI_notifications_FX_chat_chat_to_all" ID="{F59F5248-E5AC-4226-BAB1-539F6C3AA1B3}">
+					<ChildrenList>
+						<Action Name="" ID="{19B33440-D83B-4423-912C-82E381370428}" ShortID="454201163">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="All_Send" ID="{0386F689-6E0F-4A06-ABAB-6D32D4842162}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="GUI_notifications_FX_chat_chat_to_allies" ID="{19A52085-76F5-49B3-8879-76381C915CD7}">
+					<ChildrenList>
+						<Action Name="" ID="{F9788259-BBB8-411C-B37B-8B0E8B424700}" ShortID="570371806">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Team_Send" ID="{8D1179B6-3637-42F5-A1D0-F2D150712CD4}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="GUI_notifications_FX_chat_chat_to_squad" ID="{5CA0D433-C068-415B-8934-5ACE0FF78522}">
+					<ChildrenList>
+						<Action Name="" ID="{EEE77DDE-7FB0-46F3-9CDA-53D3E938797A}" ShortID="403339629">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Platoon_Send" ID="{37E5A896-D199-4E0D-AD75-EF545FC0E62D}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

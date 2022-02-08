@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{383C17DB-877A-4145-9FDB-8C115E5B8817}" SchemaVersion="97" RootDocumentID="{5D196377-55B1-4B35-B61E-70B8120B1A9C}">
+	<Events>
+		<WorkUnit Name="Surface" ID="{383C17DB-877A-4145-9FDB-8C115E5B8817}" OwnerID="{5D196377-55B1-4B35-B61E-70B8120B1A9C}" PersistMode="Nested">
+			<ChildrenList>
+				<WorkUnit Name="huge" ID="{8C8328D1-7068-43B6-BFAE-7273A1BE8A4F}" PersistMode="Reference"/>
+				<WorkUnit Name="large" ID="{9C4671D0-9FD3-4B82-A3AA-6FA6271396EE}" PersistMode="Reference"/>
+				<WorkUnit Name="main" ID="{75F0FF02-41D3-4049-9272-627B638A0DEA}" PersistMode="Reference"/>
+				<WorkUnit Name="medium" ID="{48337209-68B7-4CDA-9291-E93300BA44B4}" PersistMode="Reference"/>
+				<WorkUnit Name="small" ID="{2C2AB564-0DCB-4B87-9014-EA8196C0307F}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

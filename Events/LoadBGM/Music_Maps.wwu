@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7E76CFB4-9F05-4788-9CB4-A4FB7DAF8A8B}" SchemaVersion="97" RootDocumentID="{6BCA4A67-6EDE-4785-A916-54056BFBB12E}">
+	<Events>
+		<WorkUnit Name="Music_Maps" ID="{7E76CFB4-9F05-4788-9CB4-A4FB7DAF8A8B}" OwnerID="{6BCA4A67-6EDE-4785-A916-54056BFBB12E}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Music_America_Lakville" ID="{1283027D-8F70-4F56-A794-0A33A9395DA8}">
+					<ChildrenList>
+						<Action Name="" ID="{660C0A36-FDEA-4702-B683-AA0A61C65CDD}" ShortID="78755338">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="America_lakville" ID="{B98AA687-8E58-446F-BBF0-56B7DDEDAFEA}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_America_Overlord" ID="{4AE2B458-B2E4-4A14-AC28-9B6302A759D9}">
+					<ChildrenList>
+						<Action Name="" ID="{4EAAC87D-A722-4729-BA24-BDCCF77BFF1A}" ShortID="731569012">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="America_overlord" ID="{D3D62CC2-C587-4C83-898B-F3366BE3A875}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_Chinese" ID="{D9C47673-1181-4011-A125-447E1C507EFD}">
+					<ChildrenList>
+						<Action Name="" ID="{BD631AE3-1B4C-466C-855D-9BE9B4BF8BE4}" ShortID="388549880">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Chinese" ID="{ACA70F40-E24A-4ED8-A3E2-4D530C7BD921}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_Desert_Airfield" ID="{A85FFD71-2848-458A-A5E0-7B554D89FC89}">
+					<ChildrenList>
+						<Action Name="" ID="{800BD497-FB3B-476B-8D64-CDD4350A1A9C}" ShortID="836113119">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Desert_airfield" ID="{49EC494B-26FC-416E-8437-7B51979CDD59}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_Desert_Sand_River" ID="{C27DEBED-EE8F-490A-B06A-C29A8EA8EE73}">
+					<ChildrenList>
+						<Action Name="" ID="{F67C0269-0368-4C6B-97A5-B91B253474E2}" ShortID="920552752">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Desert_sand_river" ID="{C3BA312B-9EE3-46CB-B3AD-B23F0679F340}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_Europe_Himmelsdorf" ID="{47B2D1B3-8B8E-4310-952C-7F7D435A58FB}">
+					<ChildrenList>
+						<Action Name="" ID="{2A2EAED2-E58C-4889-86B2-B7167B4AAEDC}" ShortID="386876765">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Europe_himmelsdorf" ID="{11C348F3-3C35-424A-823B-83594E3B54A4}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_Europe_Mannerheim" ID="{50EB86DA-3453-4EAC-AEAA-80A2B4F05D89}">
+					<ChildrenList>
+						<Action Name="" ID="{0FB7F4C6-25A2-4BB1-BC80-C1EBBB8382E2}" ShortID="183700658">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Europe_mannerheim" ID="{27B60405-AEB1-4D62-9BA5-625C3C76D088}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_Europe_Ruinberg" ID="{71E350FF-C1D7-4C99-A991-38917192E073}">
+					<ChildrenList>
+						<Action Name="" ID="{82D33056-DBC5-4B8E-9948-D27B8084E5E0}" ShortID="407450656">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Europe_ruinberg" ID="{B3673E0E-6D3F-4851-9E4F-91E5C7CD44D0}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_Japan" ID="{35E43718-769A-4521-B861-355E4390B401}">
+					<ChildrenList>
+						<Action Name="" ID="{65037791-8880-4244-9CAE-D2E4ECDD94C5}" ShortID="719239274">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Japan" ID="{902A4286-068F-463E-AE5C-3238DAAC5DFD}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_Russian_Malinovka" ID="{DF751051-D882-4F29-B700-3A037B6462E1}">
+					<ChildrenList>
+						<Action Name="" ID="{69197167-FB38-42AE-91BA-A2FBDEFAC319}" ShortID="733230973">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Russian_malinovka" ID="{4939C647-583D-407F-8AC9-44637A812549}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_Russian_Prokhorovka" ID="{DD2F523C-223F-455F-94F2-8666B15B7EC5}">
+					<ChildrenList>
+						<Action Name="" ID="{0106E081-6200-4A11-BAF9-EDE12C06DC41}" ShortID="493971656">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Russian_prokhorovka" ID="{BCD8C5B4-1B1D-4ABF-A4CD-DE7A7BE84360}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

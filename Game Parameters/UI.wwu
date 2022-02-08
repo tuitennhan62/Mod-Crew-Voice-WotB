@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{63C7F98B-1029-444D-B272-32B011B53962}" SchemaVersion="97" RootDocumentID="{A616EC5A-9F05-4E82-96D0-335AB28E12D7}">
+	<GameParameters>
+		<WorkUnit Name="UI" ID="{63C7F98B-1029-444D-B272-32B011B53962}" OwnerID="{A616EC5A-9F05-4E82-96D0-335AB28E12D7}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="percent" ID="{641F0B6F-DAFA-44A7-B24D-DD15D4EFD30D}">
+					<PropertyList>
+						<Property Name="FilterTimeDown" Type="Real64" Value="100"/>
+						<Property Name="FilterTimeUp" Type="Real64" Value="100"/>
+						<Property Name="InitialValue" Type="Real64" Value="1"/>
+						<Property Name="RTPCRamping" Type="int16" Value="1"/>
+						<Property Name="SlewRateDown" Type="Real64" Value="25"/>
+						<Property Name="SlewRateUp" Type="Real64" Value="25"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="hangar" ID="{24077EC4-C119-4EAE-9A1C-0E0F9DA770FC}">
+					<PropertyList>
+						<Property Name="FilterTimeDown" Type="Real64" Value="100"/>
+						<Property Name="FilterTimeUp" Type="Real64" Value="100"/>
+						<Property Name="InitialValue" Type="Real64" Value="1"/>
+						<Property Name="Max" Type="Real64" Value="1"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

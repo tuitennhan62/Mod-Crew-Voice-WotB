@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{ACFF5071-489C-413D-9520-46B50623111C}" SchemaVersion="97" RootDocumentID="{2B7B748E-D61B-4E4F-87CC-7EF2232D63AB}">
+	<Events>
+		<WorkUnit Name="Music" ID="{ACFF5071-489C-413D-9520-46B50623111C}" OwnerID="{4F64DD4E-BEAB-4F20-866D-D2F8D50CA135}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="hangar_ambient_loginscreen_v1_loginscreen" ID="{1AA041D4-FBAE-4D0B-B827-ADEF934D9966}">
+					<ChildrenList>
+						<Action Name="" ID="{F28E398E-4465-4EA8-8E07-D93F0C2EE95F}" ShortID="125794085">
+							<PropertyList>
+								<Property Name="FadeTime" Type="Real64" Value="3"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Custom_BGM" ID="{CC0506C6-EA4D-4822-AE91-FAFEC5C684C5}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{DB8E90F5-B55E-4341-B099-4C183F877A19}" ShortID="912112058">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Login_SE_01" ID="{098944C4-B9CD-4BC0-9B95-55C073F370C9}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{9D21790D-77D4-43FA-842F-C44B7BC933AA}" ShortID="317529171">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Login_SE_02" ID="{A43C8661-3489-433F-821D-80CFD79E8A6A}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{D4254156-6EEB-4888-B700-0DC5068437EF}" ShortID="757649862">
+							<PropertyList>
+								<Property Name="Inclusion" Type="bool">
+									<ValueList>
+										<Value>False</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Login_SE_03" ID="{5B340771-1EA2-4258-8D02-D2D7E906B69D}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{AA0C207E-5F43-4744-9BE7-D6077A645312}" ShortID="381342047">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Login_SE_04" ID="{6C38FCF4-4FBB-46A0-AC84-9DD8FA8AE3E1}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4F64DD4E-BEAB-4F20-866D-D2F8D50CA135}" SchemaVersion="97" RootDocumentID="{2B7B748E-D61B-4E4F-87CC-7EF2232D63AB}">
+	<Events>
+		<WorkUnit Name="Hangar_1_0" ID="{4F64DD4E-BEAB-4F20-866D-D2F8D50CA135}" OwnerID="{2B7B748E-D61B-4E4F-87CC-7EF2232D63AB}" PersistMode="Nested">
+			<ChildrenList>
+				<WorkUnit Name="Music" ID="{ACFF5071-489C-413D-9520-46B50623111C}" PersistMode="Reference"/>
+				<Event Name="hangar_ambient_hangar_blitz_v1_premium" ID="{53D5BBA2-7C09-420B-A1DF-9E718C789004}">
+					<ChildrenList>
+						<Action Name="" ID="{EAE04691-2387-4F3C-83FC-37784D461338}" ShortID="377489419">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Normal_BGM" ID="{A736B158-F5BB-4D90-BD10-42A5DEF07124}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{2CED2237-2348-4DF2-B9BA-516373705CE1}" ShortID="26997239">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Normal_SE" ID="{01CEA895-B399-4ECD-839D-1C04F4AD6DD9}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E1EC9A87-894F-4218-BC6B-3B8AB3FB1787}" ShortID="318967819">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Normal_SE_Other" ID="{982EB703-0C19-42DA-BFE9-215B56872487}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{29640716-258E-4B0C-A51F-531357198B30}" ShortID="490910093">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Normal_Hammer" ID="{9874C059-E2D0-46B4-BBBD-765BA8EB76E4}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{4B4CE29B-384C-4DE0-8E84-073B072B8006}" ShortID="458598607">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Normal_Repair" ID="{DBE6EE8A-F4DF-4D6D-9B1B-E177A814D1F5}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{CADECD8A-15FD-402C-AFEF-E4662F067DC5}" ShortID="331965296">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Normal_Electric" ID="{09B1D2B4-673A-48E2-85F1-0345CE6307FB}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hangar_ambient_hangar_new_prem_hangar_car" ID="{E8944749-5C72-4195-9368-2252ED43ADB5}">
+					<ChildrenList>
+						<Action Name="" ID="{E9A41F48-9C94-4009-A27D-C2DD034421CF}" ShortID="1063124172">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Premium_Car" ID="{A344BC91-916D-4237-A918-AB772D9EC4A1}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hangar_ambient_hangar_new_prem_hangar_car_outside" ID="{C0ED0706-4D88-4092-AB80-1948D0CE3423}">
+					<ChildrenList>
+						<Action Name="" ID="{213E7CC0-82BF-4A3B-B633-0459D19382E2}" ShortID="504901523">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Premium_Car_Outside" ID="{E7EF9A67-B813-4237-835D-600C05F645B4}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hangar_ambient_hangar_new_prem_hangar_crane" ID="{7E52A68B-4BCE-4F5C-A22B-2EF305738FB6}">
+					<ChildrenList>
+						<Action Name="" ID="{10A7C31F-2F8A-446F-8F51-9A479377BF90}" ShortID="753043784">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Premium_Crane_Loop" ID="{A83B8B30-E546-4BC2-A862-318E8DCF8F0E}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{B98E64E5-16DE-4447-B513-9B828A2B49E5}" ShortID="193386477">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Premium_Crane_Oneshot" ID="{286BE2C2-76BD-4414-88F4-1B74CCA29F7E}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hangar_ambient_hangar_new_prem_hangar_welding" ID="{3FDDD633-85D4-43BD-B4EA-791721755D04}">
+					<ChildrenList>
+						<Action Name="" ID="{1F0B0B5E-99EF-49E0-8F9A-DB539045C2C3}" ShortID="410001731">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Premium_Welding" ID="{68F95376-C471-4E37-96DE-EDC6AF431184}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hangar_ambient_hangar_new_prem_premium_drone" ID="{39418FF3-EAC6-4A24-B622-1DDD2598E150}">
+					<ChildrenList>
+						<Action Name="" ID="{A0AD0F63-21DE-4E12-9BED-6F4BA18EAA24}" ShortID="609313946">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Premium_Engine" ID="{4063F0FB-1FEA-448E-A772-3F3366698ABB}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{447C199F-A6E7-4312-B99A-C2F090E15035}" ShortID="98462327">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Premium_Hammer" ID="{097CD6D1-F577-45A2-B844-1B8E52B18F91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{33512AE2-A45C-4365-A23C-0BA25E8A178A}" ShortID="424694567">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Premium_Work" ID="{C83AB63F-1B58-47C0-8095-FBC85B883E3E}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{8DE81956-FF1C-409E-ABEB-992FD412A442}" ShortID="238858367">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Premium_BGM" ID="{E7E08F44-88F7-45B1-BB3D-7E9D419F084D}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
