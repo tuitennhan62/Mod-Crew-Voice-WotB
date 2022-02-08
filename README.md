@@ -29,7 +29,7 @@ Bước 9: Sau khi cài đặt, hãy mở thư mục "Download" trong File Explo
 
 Bước 10: Giải nén tất cả Project WWISE VOICE WOT BLITZ (muốn giải nén ở đâu cũng được)
 
-Bước 11: Mở tệp WOTB_WWISE_VOICE.wproj
+Bước 11: Mở tệp Project WotB Wwise.wproj
 
 Bước 12: Sau khi mở, hãy mở mục Audio
  và mở Actor-Mixer Hierarchy
