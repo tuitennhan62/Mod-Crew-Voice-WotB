@@ -36,11 +36,11 @@ Bước 12: Sau khi mở, hãy mở mục Audio
 
  Tiếp theo, mở Default Work Unit
 
- Bây giờ chúng ta mở voice và có rất nhiều vùng chứa, chúng ta phải chèn các tệp âm thanh vào chúng, đây là danh sách chúng:
+ Bây giờ chúng ta mở voice và có rất nhiều vùng trống, chúng ta phải chèn các tệp âm thanh vào chúng, đây là danh sách chúng:
 
  (Các cụm từ được theo sau bởi tên của tệp âm thanh và định dạng của nó, cụm từ được lưu dưới tên và định dạng mong muốn)
 
- (Chỉ cần chuyển tệp âm thanh từ thư mục sang chương trình trong vùng chứa mong muốn, nó sẽ tự thiết lập (nếu có tên và định dạng chính xác))
+ (Chỉ cần chuyển tệp âm thanh từ thư mục sang program trong vùng trống mong muốn, nó sẽ tự thiết lập (nếu có tên và định dạng chính xác))
 # Tiếng Kíp Lái
 # ally_killed_by_player
 tiêu diệt đồng minh
