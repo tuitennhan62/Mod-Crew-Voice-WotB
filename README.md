@@ -294,7 +294,7 @@ tháp pháo hỏng hoàn toàn
 * turret_rotator_destroyed_02.wav
 
 # turret_rotator_functional
-tháp pháo đã sửa
+tháp pháo đã sửa 1 phần
 * turret_rotator_functional_01.wav
 * turret_rotator_functional_02.wav
 
